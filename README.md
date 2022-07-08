@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome!&fontSize=70&rotate=13&fontAlignY=36)
 
 # 주니어 안드로이드 개발자 <br/> 정현우입니다.
 
