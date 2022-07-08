@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&text=Hello%20World!&fontAlign=30&stroke=00FF00&strokeWidth=2)
 
-# <center>주니어 안드로이드 개발자 <br/> 정현우입니다.</center>
+# 주니어 안드로이드 개발자 <br/> 정현우입니다. 
 
 <br/>
 
