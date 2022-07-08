@@ -21,6 +21,7 @@
 
 - 서울양정고등학교 졸업
 - 서울시립대학교 공간정보공학과 졸업
+- 코드스쿼드 2022 안드로이드 
 
 ### 🌈 &nbsp; Portfolio
 <a href="https://grizzly-green-e28.notion.site/492cc084d84a4a1db2252b04be0986b7"><img alt="Notion" src ="https://img.shields.io/badge/Notion-8B89CC.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
