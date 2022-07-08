@@ -15,7 +15,7 @@
 
 ### 📫 &nbsp; Contact
 
-- ✉️  e-mail : **jminie@naver.com**
+- Email : **jminie@naver.com**
 
 ### 🏫 &nbsp; Education
 
